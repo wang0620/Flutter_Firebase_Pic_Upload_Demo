@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739577138311",
+    "project_id": "flutterphotomanagerdemo",
+    "storage_bucket": "flutterphotomanagerdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739577138311:android:8612f68c7d8036531b3c22",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739577138311-1hddfpcunsarufs2btspmfq5e3g8ac77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbWZ2tEu34nhBuk_lCiduBZf2-lH7kv1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739577138311-1hddfpcunsarufs2btspmfq5e3g8ac77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
